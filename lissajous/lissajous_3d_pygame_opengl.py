@@ -1,3 +1,7 @@
+# Install OpenGL with
+# pip install PyOpenGL PyOpenGL_accelerate
+# 
+
 import pygame
 from pygame.locals import *
 from OpenGL.GL import *
